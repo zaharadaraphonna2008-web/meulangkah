@@ -1,0 +1,6 @@
+{
+  "name": "MEULANGKAH — Aceh Halal Tourism & Culture",
+  "description": "Platform eksplorasi wisata halal, budaya Aceh, kuliner tersertifikasi, akomodasi ramah Muslim, dan perencana perjalanan terpadu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
